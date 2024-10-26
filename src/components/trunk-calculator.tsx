@@ -1,9 +1,6 @@
 "use client"
 
 import React, { useState, useEffect } from 'react';
-// ... rest of the code
-
-import React, { useState, useEffect } from 'react';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
